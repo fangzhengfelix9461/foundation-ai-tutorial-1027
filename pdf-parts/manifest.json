@@ -1,0 +1,13 @@
+{
+  "parts": [
+    "source.part00",
+    "source.part01",
+    "source.part02",
+    "source.part03",
+    "source.part04",
+    "source.part05",
+    "source.part06"
+  ],
+  "sha256": "f026a02541f071609628c55a979071ecf5a6b23fc053bd894d4ed09098040b38",
+  "size": 16985308
+}
