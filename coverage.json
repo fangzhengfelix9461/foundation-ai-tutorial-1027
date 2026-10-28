@@ -1,0 +1,11 @@
+{
+  "source_pdf_sha256": "f026a02541f071609628c55a979071ecf5a6b23fc053bd894d4ed09098040b38",
+  "source_pages": 46,
+  "source_text_lines": 941,
+  "original_images": 37,
+  "table_fragments": 6,
+  "slides": 151,
+  "lower_slide": 79,
+  "image_sizing": "PDF points × 96/72 CSS pixels, capped only by available narrow-screen width; no max-height shrink",
+  "content_policy": "Verbatim source text and images. Only emphasis/font size and navigation layout changed."
+}
