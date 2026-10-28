@@ -6,4 +6,4 @@
 
 原图以PDF中的显示宽高为基准（1点=96/72 CSS像素），不设最大高度缩图；窄屏按可用宽度等比适配。37处原图按原编码或无损PNG导出；6处原表片段按原版面无损呈现。PDF跨页表头与表体保持相邻。source.pdf为原始文件。
 
-静态网页，无构建依赖。GitHub Pages使用main分支根目录。
+静态网页。GitHub Actions运行build_site.py，把分块传输的原始PDF按字节还原为source.pdf并校验SHA-256，再发布_site目录。分块只用于上传，不改变PDF内容。
